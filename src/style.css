@@ -1,0 +1,42 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+h1,
+p {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.card {
+  width: 16rem !important;
+  margin: 10px;
+}
+
+.card-img-top {
+  width: 180px;
+  margin: auto;
+  object-fit: contain;
+  height: 150px;
+  padding: 10px 0px;
+}
+
+.card-title {
+  font-size: 1rem;
+  line-height: 1.35em;
+}
+
+.category {
+  color: #04b304;
+  text-transform: uppercase;
+  font-size: 12px;
+}
+
+.price {
+  color: #c001c0;
+  font-weight: bold;
+}
+
+.card-text {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
