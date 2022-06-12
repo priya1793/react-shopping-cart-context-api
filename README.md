@@ -1,3 +1,3 @@
-# react-hkdomm
+# react-contextapi-usereducer-hook
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-hkdomm)
+Create shopping cart in react with context api and useReducer hook
